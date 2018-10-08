@@ -4,7 +4,7 @@ https://shakib1729.github.io/background-generator/
 
 a cool simple background generator(linear gradient) to use on websites
 
-uses JavaScript Random function to generate random colours
+uses JS Random function to generate random colours
 
 ![bg1](https://user-images.githubusercontent.com/39847281/43388107-e57603a4-9405-11e8-98fc-ea2137896ea2.JPG)
 
